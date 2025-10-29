@@ -1,2 +1,5 @@
 # java-ee
-Introduction to Java EE
+
+Chaque package correspond à une thématique JEE :
+
+* JDBC
