@@ -10,6 +10,9 @@ public class Main {
   
   public static void main(String[] args) {
 
+    
+    System.out.println("Executing src main file");
+
     try {
       // Chargement du pilote
       Class.forName("com.mysql.cj.jdbc.Driver");
@@ -39,6 +42,9 @@ public class Main {
         System.out.println("Email : " + res.getString("email"));
         System.out.println("Nom : " + res.getString("name"));
       }
+
+      // Un Statement est une ressource JDBC et il doit être fermé dès qu’il n’est plus nécessaire 
+      st.close();
 
     } catch (ClassNotFoundException e) {
             System.out.println("Pilote JDBC non trouvé : " + e.getMessage());
