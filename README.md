@@ -1,2 +1,5 @@
-# java-ee
-Gathers all java ee repositories
+# JAVA EE
+
+## [JDBC](https://github.com/iliasse-e/jdbc)
+
+## [Servlet](https://github.com/iliasse-e/Servlet)
