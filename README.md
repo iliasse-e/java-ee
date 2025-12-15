@@ -1,5 +1,5 @@
 # JAVA EE
 
-## [JDBC](https://github.com/iliasse-e/jdbc)
+[JDBC](https://github.com/iliasse-e/jdbc)
 
-## [Servlet](https://github.com/iliasse-e/Servlet)
+[Servlet](https://github.com/iliasse-e/Servlet)
