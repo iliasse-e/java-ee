@@ -1,7 +1,13 @@
 # JAVA EE
 
-[JDBC](https://github.com/iliasse-e/jdbc)
+[Maven](https://github.com/iliasse-e/maven)
+
+## WEB
 
 [Servlet](https://github.com/iliasse-e/Servlet)
+
+## ORM
+
+[JDBC](https://github.com/iliasse-e/jdbc)
 
 [JPA](https://github.com/iliasse-e/jpa)
